@@ -1,0 +1,4 @@
+The created datasets will be saved in this directory.
+
+Dataset file format: .pkl
+Sample format: (z_latent, w_latent, attribute_label) formed by dictionary with index as key.

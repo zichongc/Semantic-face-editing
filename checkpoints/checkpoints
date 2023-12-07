@@ -1,0 +1,5 @@
+Place model checkpoints here.
+
+stylegan2-ffhq-config-f.pt
+shape_predictor_68_face_landmarks.dat
+e4e_ffhq_encode.pt

@@ -1,0 +1,3 @@
+The solved attribute vectors will be saved here.
+
+Attribute vectors are torch.Tensor with shape (1, 512).
